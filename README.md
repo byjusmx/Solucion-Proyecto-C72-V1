@@ -1,2 +1,2 @@
-# PRO-C72-PROJECT
-After Class Project for PRO-C72
+# PRO-C72-PROYECTO
+Proyecto para después de la clase C72
