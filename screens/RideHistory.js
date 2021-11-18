@@ -5,7 +5,7 @@ export default class RideHistoryScreen extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.text}>Ride History Screen</Text>
+        <Text style={styles.text}>Pantalla de Historial de Viajes</Text>
       </View>
     );
   }
